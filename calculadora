@@ -1,0 +1,17 @@
+<html>
+  <head>
+       <title>Calculadora Teste</title>
+  </head>
+  <body>
+      <p class="texto-apresentacao">Essa sera nossa calculadora baseada em JavaScript.</.p>
+      <boutton type='boutton'id='igual' onclick='='>=</boutton>
+      <boutton type='boutton'id='adicao' onclick='+'>+</boutton>
+      <boutton type='boutton'id='subtracao' onclick='-'>-</boutton>
+      <boutton type='boutton'id='multiplic' onclick='*'>X</botton
+      <boutton type='boutton'id='divisao' onclick='/'>/</boutton>
+
+  </body>
+</html>
+  
+      
+    
